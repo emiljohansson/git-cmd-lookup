@@ -1,6 +1,6 @@
 {
   "name": "git-cmd-lookup",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A lookup how to write a few git commands, like a google search.",
   "main": "cli.js",
   "bin": {
