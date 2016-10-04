@@ -1,0 +1,28 @@
+{
+  "name": "git-cmd-lookup",
+  "version": "0.0.0",
+  "description": "A lookup how to write a few git commands, like a google search.",
+  "main": "cli.js",
+  "bin": {
+    "git-lookup": "cli.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiljohansson/git-cmd-lookup.git"
+  },
+  "keywords": [
+    "git",
+    "cmd",
+    "lookup"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emiljohansson/git-cmd-lookup/issues"
+  },
+  "homepage": "https://github.com/emiljohansson/git-cmd-lookup#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
